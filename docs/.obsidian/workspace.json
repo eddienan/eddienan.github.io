@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "5d41a595537e7d7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5583b816076b9bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7226b0ee17b7a92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5796f0c77bc45218",
+    "type": "split",
+    "children": [
+      {
+        "id": "426768bf737a5183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0621d8941dfaf336",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceff59b31c8862ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "转",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae631930d4f62a70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.5
+  },
+  "right": {
+    "id": "d354773e35025b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c34999a0c80169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9206250f8012f5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08ea2e4a79dcd746",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fe752a8ff79e009",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b13f6e98a94433e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c7226b0ee17b7a92",
+  "lastOpenFiles": [
+    "posts/blogs/Growth/工作感悟/20210615六年级交互设计师的几点感悟.md",
+    "posts/blogs/Growth/学习感悟/20150917大学期间我是怎么从学计算机的转成初级交互设计.md",
+    "posts/blogs/Growth/工作感悟/20240325我想做成的一件事设计开源.md",
+    "data.json~",
+    "posts/blogs/Growth/工作感悟/20240311聊聊一名科技领域设计师的9年真实感受.md",
+    "posts/blogs/Growth/工作感悟/20231215我的第一个创业项目MiXCopilot30正.md",
+    "posts/blogs/Growth/工作感悟/20220718工作七年后的几点感悟.md",
+    "posts/blogs/Growth/工作感悟/20200729五年级交互设计师的几点感悟.md",
+    "posts/blogs/Growth/工作感悟/20190923四年级交互设计师的几点感悟.md",
+    "posts/blogs/Growth/工作感悟/20190617谈一下我工作以来的成长经验.md",
+    "posts/blogs/Growth/工作感悟/20180503三年级交互设计师的几点感悟.md",
+    "posts/blogs/Growth/工作感悟/20170625二年级交互设计师的几点感悟.md",
+    "posts/blogs/Growth/工作感悟/20160714独立开发也是一项很棒的体验.md",
+    "posts/blogs/Growth/工作感悟/20160629一年级交互设计师的小小感悟.md",
+    "posts/blogs/Growth/工作感悟/20150506在百度实习的一点感悟.md",
+    "posts/experience.md",
+    "posts/blogs/Interview/20180607第二期采访关于智能音箱和VR的几点思考.md",
+    "posts/blogs/Interview/20180527第一期采访我们只是InfiniteLearn.md",
+    "posts/blogs/AI/20170921有了Sensei一分钟成为资深美工不再是梦.md",
+    "posts/blogs/AI/20170920人工智能与设计4人工智能对设计的影响.md",
+    "posts/blogs/AI/20170919人工智能与设计3人工智能时代下交互设计的改变.md",
+    "posts/blogs/AI/20170918人工智能与设计2面向用户的人工智能系统底层设.md",
+    "posts/blogs/AI/20170914人工智能与设计1人工智能的发展和定义.md",
+    "posts/blogs/AI/20170612人工智能的来临身为设计师的你会被淘汰吗.md",
+    "posts/blogs/AI/20190131比尔杜瓦尔在AI和IA中游走的第一人.md",
+    "posts/blogs/UX/20160522百度搜索UWP10设计思考.md",
+    "posts/blogs/UX/20160910如何设计一个好的提醒.md",
+    "posts/blogs/Growth/MiXCopilot",
+    "posts/blogs/Growth/MiX Copilot",
+    "未命名",
+    "posts/blogs/Growth/学习感悟",
+    "posts/blogs/Growth/工作感悟",
+    "posts/blogs/Developer",
+    "posts/blogs/UX",
+    "posts/blogs/AI",
+    "posts/blogs/HCI",
+    "posts/attachments/55f307202b7f8c86b6abae3a08934ec0_MD5.png",
+    "posts/attachments/ffb0fc3272858ae338b9a93f20eff4d3_MD5.jpg",
+    "posts/attachments/ff38f0133414d47336123027a3b14b7a_MD5.jpg",
+    "posts/attachments/fee0429f8437e7bb895f540142b90d91_MD5.jpg",
+    "posts/attachments/febacb8924a947f1ed2779ac30b54647_MD5.png",
+    "posts/attachments/febaa7e4055c318744c938d281001cdf_MD5.jpg",
+    "posts/attachments/fea2a72dacaf4593b34ff1b83591bc04_MD5.jpg",
+    "posts/attachments/fe7ddf1fee4bf712f336e86b4a80d99e_MD5.jpg",
+    "posts/attachments/fe143939c2e0869e77eb50e3be0cf515_MD5.png",
+    "posts/attachments/fde408d9afaf3dcd789e38b5082f7f0c_MD5.jpg"
+  ]
+}
