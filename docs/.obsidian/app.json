@@ -1,9 +1,0 @@
-{
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "posts/attachments",
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "posts",
-  "promptDelete": false
-}
