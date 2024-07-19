@@ -11,12 +11,8 @@
             "id": "8c9a58ef77d6ffbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日思考/240719.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日思考/240719.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日思考/240719.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "每日思考/240719.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,18 @@
   },
   "active": "8c9a58ef77d6ffbb",
   "lastOpenFiles": [
-    "每日思考/240719.md"
+    "Design/优秀案例/CCCCCCCC",
+    "Design/优秀案例/新建文件夹",
+    "Design/优秀案例/b",
+    "Design/优秀案例/A",
+    "Design/优秀案例/优秀案例.html",
+    "Design/优秀案例",
+    "Design/新建文件夹",
+    "每日思考/240719.md",
+    "Thinking/Blog.html",
+    "Thinking/Blog - 副本.html",
+    "Thinking/index.html",
+    "Thinking/Blog - 副本 (2).html",
+    "Thinking/240719.md"
   ]
 }
